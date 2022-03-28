@@ -11,8 +11,8 @@
   inputs.src-treesitter_scala-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-treesitter_scala-v0_1_1.owner = "genotrance";
   inputs.src-treesitter_scala-v0_1_1.repo  = "nimtreesitter";
-  inputs.src-treesitter_scala-v0_1_1.dir   = "treesitter_scala";
-  inputs.src-treesitter_scala-v0_1_1.type  = "github";
+    inputs.src-treesitter_scala-v0_1_1.dir   = "treesitter_scala";
+inputs.src-treesitter_scala-v0_1_1.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
   inputs."nimgen".ref   = "master";
